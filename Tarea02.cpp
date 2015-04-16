@@ -39,7 +39,7 @@ int main(int argc, char *argv[]){
 				cout<<"|°Integrantes del Grupo                                          |"<<endl;
 				cout<<"|-Franco Morales Barcelo                                         |"<<endl;
 				cout<<"|-Cesar Miranda Guajardo                                         |"<<endl;
-				cout<<"|Cristobal Herrera Fuenzalida                                    |"<<endl;
+				cout<<"|-Cristobal Herrera Fuenzalida                                   |"<<endl;
 				cout<<"+----------------------------------------------------------------+"<<endl;
 				cout<<""<<endl;
 				cout<<" Fecha de compilacion: "<< __DATE__ << " " << __TIME__ <<"        "<<endl;
