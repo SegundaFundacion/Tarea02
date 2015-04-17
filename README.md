@@ -1,10 +1,14 @@
 Tarea 02
 ========
 
-Intengrantes
+Intengrantes:
+
 -Franco Morales Barcelo
+
 -César Miranda Guajardo
+
 -Cristóbal Herrera Fuenzalida
 
-Profesor
+Profesor:
+
 -Sebastián Salazar Molina
